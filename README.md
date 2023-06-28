@@ -1,4 +1,4 @@
-<h1 align="center">Recive page</h1>
+<h1 align="center">Recipe page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://alexanderportillo.github.io/Recive-page/">
+    <a href="https://alexanderportillo.github.io/Recipe-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/alexanderportillo/Recive-page">
+    <a href="https://github.com/alexanderportillo/Recipe-page">
       Solution
     </a>
     <span> | </span>
